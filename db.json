@@ -59,7 +59,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "UrbanVibe",
       "size": [],
       "rating": null
     },
@@ -125,7 +125,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "LuxuryDress",
       "size": [],
       "rating": null
     },
@@ -155,7 +155,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "UrbanVibe",
       "size": [],
       "rating": null
     },
@@ -304,7 +304,7 @@
       "title": "Classic Black Baseball Cap",
       "slug": "classic-black-baseball-cap",
       "price": 58,
-      "description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+      "description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether youâ€™re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
       "category": {
         "id": 1,
         "name": "cap",
@@ -360,7 +360,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "TrendyTees",
       "size": [],
       "rating": null
     },
@@ -391,7 +391,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "StyleNova",
       "size": [],
       "rating": null
     },
@@ -458,7 +458,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "BasicTees",
       "size": [],
       "rating": null
     },
@@ -525,7 +525,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -556,7 +556,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -587,7 +587,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "VividEdge",
       "size": [],
       "rating": null
     },
@@ -689,7 +689,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "PulseWear",
       "size": [],
       "rating": null
     },
@@ -720,7 +720,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "UrbanVibe",
       "size": [],
       "rating": null
     },
@@ -786,7 +786,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -889,7 +889,7 @@
       "oldPrice": null,
       "discountedPrice": null,
       "stock": null,
-      "brand": null,
+      "brand": "VividEdge",
       "size": [],
       "rating": null
     }
@@ -900,7 +900,7 @@
       "title": "Auriculares Bluetooth",
       "slug": "auriculares-bluetooth",
       "price": 120,
-      "description": "Auriculares inalámbricos con sonido envolvente y batería duradera.",
+      "description": "Auriculares inalÃ¡mbricos con sonido envolvente y baterÃ­a duradera.",
       "category": {
         "id": 1,
         "name": "other",
@@ -920,7 +920,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "StreetBeat",
       "size": [],
       "rating": null
     },
@@ -951,7 +951,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -982,7 +982,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1013,7 +1013,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1044,7 +1044,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -1075,7 +1075,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1211,7 +1211,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1277,7 +1277,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1308,7 +1308,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1339,7 +1339,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -1370,7 +1370,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1434,7 +1434,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -1465,7 +1465,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1496,7 +1496,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1527,7 +1527,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -1558,7 +1558,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1589,7 +1589,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1618,7 +1618,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1647,7 +1647,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "HomeAura",
       "size": [],
       "rating": null
     },
@@ -1676,7 +1676,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "StreetBeat",
       "size": [],
       "rating": null
     },
@@ -1705,7 +1705,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1734,7 +1734,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1763,7 +1763,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1792,7 +1792,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "CozyWear",
       "size": [],
       "rating": null
     },
@@ -1801,7 +1801,7 @@
       "title": "Mouse Gamer RGB",
       "slug": "mouse-gamer-rgb",
       "price": 250,
-      "description": "Mouse gamer con luces RGB y sensor de alta precisión",
+      "description": "Mouse gamer con luces RGB y sensor de alta precisiÃ³n",
       "category": {
         "id": 2,
         "name": "electronics",
@@ -1821,7 +1821,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1850,7 +1850,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1879,7 +1879,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1908,7 +1908,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "NeoCraft",
       "size": [],
       "rating": null
     },
@@ -1937,7 +1937,7 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
     },
@@ -1966,9 +1966,39 @@
       "discountedPrice": null,
       "type": null,
       "stock": null,
-      "brand": null,
+      "brand": "TechPulse",
       "size": [],
       "rating": null
+    }
+  ],
+  "categories": [
+    {
+      "source": "products",
+      "names": [
+        "hoodie",
+        "joggers",
+        "cap",
+        "shorts",
+        "t-shirt",
+        "electronics",
+        "jeans",
+        "sneakers",
+        "boots",
+        "jacket",
+        "handbag",
+        "sunglasses"
+      ]
+    },
+    {
+      "source": "other-products",
+      "names": [
+        "other",
+        "electronics",
+        "jacket",
+        "t-shirt",
+        "gown",
+        "skirt set"
+      ]
     }
   ],
   "users": [
